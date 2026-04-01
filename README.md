@@ -120,7 +120,9 @@ AI can improve efficiency in log review and documentation, but it does not repla
 ![Splunk Dashboard](screenshots/splunk-dashboard-overview.png)
 
 ### Windows Event Investigation
-![Windows Events](screenshots/windows-events-search.png)
+<p align="center">
+  <img src="screenshots/windows-events-search.png" width="500"/>
+</p>
 
 ### Linux Log Analysis
 ![Linux Logs](screenshots/linux-logs-search.png)

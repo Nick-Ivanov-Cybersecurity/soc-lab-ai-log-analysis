@@ -35,9 +35,11 @@ The lab environment consists of the following components:
 3. Attack simulations and suspicious activity create detectable events
 4. Events are reviewed manually and compared against AI-assisted analysis workflows
 
-> Add architecture diagram below
+> See Architecture Diagram Below
 
-![SOC Lab Architecture](diagrams/soc-lab-architecture.png)
+<p align="center">
+  <img src="diagrams/soc-lab-architecture.png" width="600"/>
+</p>
 
 ---
 

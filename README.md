@@ -44,12 +44,18 @@ The lab environment consists of the following components:
 ---
 
 ## Technologies Used
-- **SIEM:** Splunk
-- **Operating Systems:** Windows, Ubuntu Linux CLI
-- **Virtualization:** Hyper-V / Virtual lab environment
-- **Security / Networking Exposure:** Active Directory, Cisco networking, Palo Alto firewalls
-- **Security Tool Familiarity:** Kali Linux, Metasploit, Burp Suite, Autopsy
-- **Cloud Exposure:** AWS fundamentals
+
+- **SIEM:** Splunk  
+- **Operating Systems:** Windows, Ubuntu Linux (CLI)  
+- **Virtualization:** Oracle VirtualBox  
+- **Networking / System Configuration:**
+  - IPv4 addressing and basic network configuration
+  - ICMP testing (ping) for connectivity validation
+- **System Security Configuration:**
+  - Windows Defender Firewall (inbound rule configuration)
+- **Log Sources:**
+  - Windows Security Events
+  - Linux system/authentication logs
 
 ---
 

@@ -102,6 +102,10 @@ A key part of this project was evaluating how AI can assist SOC workflows.
 
 ### Limitations observed
 - AI should not be treated as a source of truth
+  - Over-reliance on AI can cause significant damages
+  - AI Poisoning, Model Drift, and Hallucination can often lead to critical mistakes
+- AI must be given strict outlines as to what it can and can't do
+- All outputs should be matched with the evidence they were taken from for verification
 - Context from the analyst is still required
 - Detection quality depends on the quality of telemetry and prompts
 - Human validation is necessary to avoid incorrect conclusions

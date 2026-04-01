@@ -38,7 +38,7 @@ The lab environment consists of the following components:
 > See Architecture Diagram Below
 
 <p align="center">
-  <img src="diagrams/soc-lab-architecture.png" width="600"/>
+  <img src="diagrams/soc-lab-architecture.png" width="500"/>
 </p>
 
 ---
